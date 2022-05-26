@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Sevilay Zencirkiran
+-  Hi, I’m Sevilay Zencirkiran
 - I am a Salesforce Developer, full time mother, student, wife and cat lover. 
-- 👀 I’m interested in anything new I can learn.
-- 🌱 I’m currently learning trigger and LWC on Salesforce.
-- 📫 You can reach me via zkr.sevilay@gmail.com
+- I’m interested in anything new I can learn.
+- I’m currently learning trigger and LWC on Salesforce.
+
 
 
 <!---
